@@ -3,7 +3,7 @@ package com.kerware.simulateur;
 public class AdaptateurSimulateur implements ICalculateurImpot {
 
     private Simulateur simulateur = new Simulateur();
-
+    //c'est bien
     private int revenusNetDecl1 = 0;
     private int revenusNetDecl2 = 0;
     private SituationFamiliale situationFamiliale;
